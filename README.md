@@ -1,4 +1,6 @@
-## Hi there 👋 I am Sparshi Singh
+## Hi there 👋, I'm Sparshi Singh
+
+Email me 🤗:sparshisingh034@gmail.com for collaboration / projects 
 
 
 - 🔭 I’m currently pursuing BTech CSE from SRMU Lucknow
