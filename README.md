@@ -1,6 +1,16 @@
 ## Hi there 👋 I am Sparshi Singh
 
 
+- 🔭 I’m currently pursuing BTech CSE from SRMU Lucknow
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on web dev related projects
+- 🤔 I’m looking for help with textgenie and wanderlust projects of mine
+- 💬 Ask me about Tech support and collaboration
+- 📫 How to reach me: sprshisingh034@gmail and linkedin
+- 😄 Pronouns: Sparshi 
+- ⚡ Fun fact: I love tech and tech love me
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sparshi-singh-088128282/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sparshisingh034) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sparshisingh034) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sparshi-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sparshisingh034@gmail.com) 
 
